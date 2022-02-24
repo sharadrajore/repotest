@@ -1,6 +1,5 @@
-spring:
-  profiles:
-   active: prod
+test:
+ properties : Java
    
 
    
