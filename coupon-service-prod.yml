@@ -9,7 +9,7 @@ spring:
     
     
 test:
- properties : Spring
+ properties : Hibernate
 
 
 
