@@ -8,8 +8,7 @@ spring:
     ddl-auto: update
     
     
-test:
- properties : Python    
+   
 
 
 
